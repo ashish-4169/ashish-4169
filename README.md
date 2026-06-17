@@ -54,7 +54,7 @@
 ## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,git,github,vscode,linux&theme=dark"/>
 </div>
 
 <div align="center">
@@ -69,8 +69,8 @@
 
 | Project | Tech Stack | Description & Metrics |
 |---|---|---|
-| 🚦 **Traffic Demand Prediction** | `Python` `LightGBM` `XGBoost` `CatBoost` `Optuna` | End-to-end forecasting system using geospatial, weather, and temporal data. Stacked ensemble models tuned with Optuna and 5-fold CV. |
-| 🔭 **Pulsar Detection using ML** | `Python` `Scikit-learn` `Pandas` | Classified pulsar stars from astrophysical data using Random Forest, Decision Tree, and Logistic Regression. **97% accuracy.** |
+| 🚦 **Traffic Demand Prediction** | `Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `CatBoost` `Optuna` | End-to-end pipeline on 77,299 records across 1,249 geospatial locations — **91.47 R².** 35+ engineered features (geohash-decoded coordinates, cyclical time encoding, road-weather interactions), leakage-free OOF target encoding, and a CatBoost/LightGBM/XGBoost stack tuned via Optuna (50 trials/model) with a Ridge meta-learner. |
+| ✋ **SignLang AI: Hand Gesture Recognition** | `PyTorch` `MediaPipe` `OpenCV` `Streamlit` | Real-time gesture recognition across 14 classes from a self-collected 1,007-sample dataset. Custom GestureNet MLP on 3D hand landmarks — **98% validation accuracy** — deployed in a live webcam-based Streamlit app. |
 | 🧭 **YatraOne** | `React` `TypeScript` `OSRM` | Multi-modal journey planner built at OneJourney Hackathon 2026 — fare-lock timer, women-safety mode, carbon dashboard. |
 | 🚁 **Drone Routing Optimizer** | `C++20` | Multi-agent drone routing system with no-fly-zone collision detection, EDF scheduling, and VRP-style clustering, built for Goldman Sachs India Hackathon 2026. |
 
