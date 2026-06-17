@@ -45,7 +45,7 @@
 ## 🥇 Competitive Programming
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/ashish2201?theme=dark&font=baloo2&extension=activity" height="200"/>
+<img src="https://leetcard.jacoblin.cool/ashish_2201?theme=dark&font=baloo2&extension=activity" height="200"/>
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ashish_04" height="200"/>
 </div>
 
@@ -115,7 +115,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-649202360)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish04iota@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashish2201)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashish_2201)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ashish_04)
 
 <br/>
