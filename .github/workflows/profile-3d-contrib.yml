@@ -5,13 +5,19 @@ on:
     - cron: "0 0 * * *"   # runs once a day
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: 3D Render
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v5
+
       - name: generate 3d contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
